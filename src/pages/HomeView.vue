@@ -45,6 +45,9 @@ const value2 = ref();
       placeholder="Arbitrary time"
     />
   </div>
+  <h1 :style="{ fontWeight: 700, fontSize: '50px' }">
+    嗨，你好吗?
+  </h1>
 </template>
 
 <style scoped lang="scss">
